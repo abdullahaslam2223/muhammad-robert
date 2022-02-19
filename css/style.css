@@ -1,0 +1,16 @@
+body {
+
+}
+
+#main-doc {
+  display: inline-block;
+}
+
+#navbar {
+  float: left !important;
+}
+
+a {
+  text-decoration: none;
+  color: #2C3333;
+}
